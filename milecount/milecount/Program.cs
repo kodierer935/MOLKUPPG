@@ -25,7 +25,7 @@
             double benmil = mild * bensind;
 
             Console.WriteLine("Running "+div+"km/h");
-            Console.WriteLine("Running " + benmiltestsettests + " L i sträckan");
+            Console.WriteLine("Running " + benmil + " L i sträckan");
         }
     }
 }
