@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\obj\Debug\net6.0\MainStubNET6old.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\obj\Debug\net6.0\MainStubNET6old.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\obj\Debug\net6.0\MainStubNET6old.AssemblyInfo.cs
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\obj\Debug\net6.0\MainStubNET6old.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\bin\Debug\net6.0\MainStubNET6old.exe
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\bin\Debug\net6.0\MainStubNET6old.deps.json
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\bin\Debug\net6.0\MainStubNET6old.runtimeconfig.json
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\bin\Debug\net6.0\MainStubNET6old.dll
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\bin\Debug\net6.0\MainStubNET6old.pdb
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\obj\Debug\net6.0\MainStubNET6old.dll
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\obj\Debug\net6.0\refint\MainStubNET6old.dll
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\obj\Debug\net6.0\MainStubNET6old.pdb
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\obj\Debug\net6.0\MainStubNET6old.genruntimeconfig.cache
+C:\Users\Erik\source\repos\MainStubNET6old\MainStubNET6old\obj\Debug\net6.0\ref\MainStubNET6old.dll

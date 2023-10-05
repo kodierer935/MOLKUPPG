@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\sekor\sekor\obj\Debug\net6.0\sekor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\sekor\sekor\obj\Debug\net6.0\sekor.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\sekor\sekor\obj\Debug\net6.0\sekor.AssemblyInfo.cs
+C:\Users\Erik\source\repos\sekor\sekor\obj\Debug\net6.0\sekor.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\sekor\sekor\bin\Debug\net6.0\sekor.exe
+C:\Users\Erik\source\repos\sekor\sekor\bin\Debug\net6.0\sekor.deps.json
+C:\Users\Erik\source\repos\sekor\sekor\bin\Debug\net6.0\sekor.runtimeconfig.json
+C:\Users\Erik\source\repos\sekor\sekor\bin\Debug\net6.0\sekor.dll
+C:\Users\Erik\source\repos\sekor\sekor\bin\Debug\net6.0\sekor.pdb
+C:\Users\Erik\source\repos\sekor\sekor\obj\Debug\net6.0\sekor.dll
+C:\Users\Erik\source\repos\sekor\sekor\obj\Debug\net6.0\refint\sekor.dll
+C:\Users\Erik\source\repos\sekor\sekor\obj\Debug\net6.0\sekor.pdb
+C:\Users\Erik\source\repos\sekor\sekor\obj\Debug\net6.0\sekor.genruntimeconfig.cache
+C:\Users\Erik\source\repos\sekor\sekor\obj\Debug\net6.0\ref\sekor.dll

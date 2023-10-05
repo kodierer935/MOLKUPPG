@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\MathHello\MathHello\bin\Debug\net6.0\MathHello.exe
+C:\Users\Erik\source\repos\MathHello\MathHello\bin\Debug\net6.0\MathHello.deps.json
+C:\Users\Erik\source\repos\MathHello\MathHello\bin\Debug\net6.0\MathHello.runtimeconfig.json
+C:\Users\Erik\source\repos\MathHello\MathHello\bin\Debug\net6.0\MathHello.dll
+C:\Users\Erik\source\repos\MathHello\MathHello\bin\Debug\net6.0\MathHello.pdb
+C:\Users\Erik\source\repos\MathHello\MathHello\obj\Debug\net6.0\MathHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\MathHello\MathHello\obj\Debug\net6.0\MathHello.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\MathHello\MathHello\obj\Debug\net6.0\MathHello.AssemblyInfo.cs
+C:\Users\Erik\source\repos\MathHello\MathHello\obj\Debug\net6.0\MathHello.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\MathHello\MathHello\obj\Debug\net6.0\MathHello.dll
+C:\Users\Erik\source\repos\MathHello\MathHello\obj\Debug\net6.0\refint\MathHello.dll
+C:\Users\Erik\source\repos\MathHello\MathHello\obj\Debug\net6.0\MathHello.pdb
+C:\Users\Erik\source\repos\MathHello\MathHello\obj\Debug\net6.0\MathHello.genruntimeconfig.cache
+C:\Users\Erik\source\repos\MathHello\MathHello\obj\Debug\net6.0\ref\MathHello.dll

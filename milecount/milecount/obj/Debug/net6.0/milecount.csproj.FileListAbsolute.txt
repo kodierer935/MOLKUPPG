@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\milecount\milecount\bin\Debug\net6.0\milecount.exe
+C:\Users\Erik\source\repos\milecount\milecount\bin\Debug\net6.0\milecount.deps.json
+C:\Users\Erik\source\repos\milecount\milecount\bin\Debug\net6.0\milecount.runtimeconfig.json
+C:\Users\Erik\source\repos\milecount\milecount\bin\Debug\net6.0\milecount.dll
+C:\Users\Erik\source\repos\milecount\milecount\bin\Debug\net6.0\milecount.pdb
+C:\Users\Erik\source\repos\milecount\milecount\obj\Debug\net6.0\milecount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\milecount\milecount\obj\Debug\net6.0\milecount.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\milecount\milecount\obj\Debug\net6.0\milecount.AssemblyInfo.cs
+C:\Users\Erik\source\repos\milecount\milecount\obj\Debug\net6.0\milecount.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\milecount\milecount\obj\Debug\net6.0\milecount.dll
+C:\Users\Erik\source\repos\milecount\milecount\obj\Debug\net6.0\refint\milecount.dll
+C:\Users\Erik\source\repos\milecount\milecount\obj\Debug\net6.0\milecount.pdb
+C:\Users\Erik\source\repos\milecount\milecount\obj\Debug\net6.0\milecount.genruntimeconfig.cache
+C:\Users\Erik\source\repos\milecount\milecount\obj\Debug\net6.0\ref\milecount.dll

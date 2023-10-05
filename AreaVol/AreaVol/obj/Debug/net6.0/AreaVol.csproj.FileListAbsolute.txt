@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\AreaVol\AreaVol\obj\Debug\net6.0\AreaVol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\AreaVol\AreaVol\obj\Debug\net6.0\AreaVol.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\AreaVol\AreaVol\obj\Debug\net6.0\AreaVol.AssemblyInfo.cs
+C:\Users\Erik\source\repos\AreaVol\AreaVol\obj\Debug\net6.0\AreaVol.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\AreaVol\AreaVol\bin\Debug\net6.0\AreaVol.exe
+C:\Users\Erik\source\repos\AreaVol\AreaVol\bin\Debug\net6.0\AreaVol.deps.json
+C:\Users\Erik\source\repos\AreaVol\AreaVol\bin\Debug\net6.0\AreaVol.runtimeconfig.json
+C:\Users\Erik\source\repos\AreaVol\AreaVol\bin\Debug\net6.0\AreaVol.dll
+C:\Users\Erik\source\repos\AreaVol\AreaVol\bin\Debug\net6.0\AreaVol.pdb
+C:\Users\Erik\source\repos\AreaVol\AreaVol\obj\Debug\net6.0\AreaVol.dll
+C:\Users\Erik\source\repos\AreaVol\AreaVol\obj\Debug\net6.0\refint\AreaVol.dll
+C:\Users\Erik\source\repos\AreaVol\AreaVol\obj\Debug\net6.0\AreaVol.pdb
+C:\Users\Erik\source\repos\AreaVol\AreaVol\obj\Debug\net6.0\AreaVol.genruntimeconfig.cache
+C:\Users\Erik\source\repos\AreaVol\AreaVol\obj\Debug\net6.0\ref\AreaVol.dll

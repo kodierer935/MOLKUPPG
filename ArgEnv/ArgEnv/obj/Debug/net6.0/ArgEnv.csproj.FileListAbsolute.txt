@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\bin\Debug\net6.0\ArgEnv.exe
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\bin\Debug\net6.0\ArgEnv.deps.json
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\bin\Debug\net6.0\ArgEnv.runtimeconfig.json
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\bin\Debug\net6.0\ArgEnv.dll
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\bin\Debug\net6.0\ArgEnv.pdb
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\obj\Debug\net6.0\ArgEnv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\obj\Debug\net6.0\ArgEnv.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\obj\Debug\net6.0\ArgEnv.AssemblyInfo.cs
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\obj\Debug\net6.0\ArgEnv.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\obj\Debug\net6.0\ArgEnv.dll
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\obj\Debug\net6.0\refint\ArgEnv.dll
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\obj\Debug\net6.0\ArgEnv.pdb
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\obj\Debug\net6.0\ArgEnv.genruntimeconfig.cache
+C:\Users\Erik\source\repos\ArgEnv\ArgEnv\obj\Debug\net6.0\ref\ArgEnv.dll
