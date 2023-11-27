@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\sajt\sajt\bin\Debug\net6.0\sajt.exe
+C:\Users\Erik\source\repos\sajt\sajt\bin\Debug\net6.0\sajt.deps.json
+C:\Users\Erik\source\repos\sajt\sajt\bin\Debug\net6.0\sajt.runtimeconfig.json
+C:\Users\Erik\source\repos\sajt\sajt\bin\Debug\net6.0\sajt.dll
+C:\Users\Erik\source\repos\sajt\sajt\bin\Debug\net6.0\sajt.pdb
+C:\Users\Erik\source\repos\sajt\sajt\obj\Debug\net6.0\sajt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\sajt\sajt\obj\Debug\net6.0\sajt.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\sajt\sajt\obj\Debug\net6.0\sajt.AssemblyInfo.cs
+C:\Users\Erik\source\repos\sajt\sajt\obj\Debug\net6.0\sajt.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\sajt\sajt\obj\Debug\net6.0\sajt.dll
+C:\Users\Erik\source\repos\sajt\sajt\obj\Debug\net6.0\refint\sajt.dll
+C:\Users\Erik\source\repos\sajt\sajt\obj\Debug\net6.0\sajt.pdb
+C:\Users\Erik\source\repos\sajt\sajt\obj\Debug\net6.0\sajt.genruntimeconfig.cache
+C:\Users\Erik\source\repos\sajt\sajt\obj\Debug\net6.0\ref\sajt.dll

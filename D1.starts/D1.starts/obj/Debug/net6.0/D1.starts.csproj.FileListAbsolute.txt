@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\D1.starts\D1.starts\bin\Debug\net6.0\D1.starts.exe
+C:\Users\Erik\source\repos\D1.starts\D1.starts\bin\Debug\net6.0\D1.starts.deps.json
+C:\Users\Erik\source\repos\D1.starts\D1.starts\bin\Debug\net6.0\D1.starts.runtimeconfig.json
+C:\Users\Erik\source\repos\D1.starts\D1.starts\bin\Debug\net6.0\D1.starts.dll
+C:\Users\Erik\source\repos\D1.starts\D1.starts\bin\Debug\net6.0\D1.starts.pdb
+C:\Users\Erik\source\repos\D1.starts\D1.starts\obj\Debug\net6.0\D1.starts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\D1.starts\D1.starts\obj\Debug\net6.0\D1.starts.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\D1.starts\D1.starts\obj\Debug\net6.0\D1.starts.AssemblyInfo.cs
+C:\Users\Erik\source\repos\D1.starts\D1.starts\obj\Debug\net6.0\D1.starts.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\D1.starts\D1.starts\obj\Debug\net6.0\D1.starts.dll
+C:\Users\Erik\source\repos\D1.starts\D1.starts\obj\Debug\net6.0\refint\D1.starts.dll
+C:\Users\Erik\source\repos\D1.starts\D1.starts\obj\Debug\net6.0\D1.starts.pdb
+C:\Users\Erik\source\repos\D1.starts\D1.starts\obj\Debug\net6.0\D1.starts.genruntimeconfig.cache
+C:\Users\Erik\source\repos\D1.starts\D1.starts\obj\Debug\net6.0\ref\D1.starts.dll

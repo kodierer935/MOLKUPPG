@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "inl3_uppg1/1.0.0": {
+        "runtime": {
+          "inl3_uppg1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inl3_uppg1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

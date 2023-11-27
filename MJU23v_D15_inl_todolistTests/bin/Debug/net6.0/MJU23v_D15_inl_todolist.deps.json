@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MJU23v_D15_inl_todolist/1.0.0": {
+        "runtime": {
+          "MJU23v_D15_inl_todolist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MJU23v_D15_inl_todolist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

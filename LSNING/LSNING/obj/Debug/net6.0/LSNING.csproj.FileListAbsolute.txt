@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\LSNING\LSNING\bin\Debug\net6.0\LSNING.exe
+C:\Users\Erik\source\repos\LSNING\LSNING\bin\Debug\net6.0\LSNING.deps.json
+C:\Users\Erik\source\repos\LSNING\LSNING\bin\Debug\net6.0\LSNING.runtimeconfig.json
+C:\Users\Erik\source\repos\LSNING\LSNING\bin\Debug\net6.0\LSNING.dll
+C:\Users\Erik\source\repos\LSNING\LSNING\bin\Debug\net6.0\LSNING.pdb
+C:\Users\Erik\source\repos\LSNING\LSNING\obj\Debug\net6.0\LSNING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\LSNING\LSNING\obj\Debug\net6.0\LSNING.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\LSNING\LSNING\obj\Debug\net6.0\LSNING.AssemblyInfo.cs
+C:\Users\Erik\source\repos\LSNING\LSNING\obj\Debug\net6.0\LSNING.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\LSNING\LSNING\obj\Debug\net6.0\LSNING.dll
+C:\Users\Erik\source\repos\LSNING\LSNING\obj\Debug\net6.0\refint\LSNING.dll
+C:\Users\Erik\source\repos\LSNING\LSNING\obj\Debug\net6.0\LSNING.pdb
+C:\Users\Erik\source\repos\LSNING\LSNING\obj\Debug\net6.0\LSNING.genruntimeconfig.cache
+C:\Users\Erik\source\repos\LSNING\LSNING\obj\Debug\net6.0\ref\LSNING.dll

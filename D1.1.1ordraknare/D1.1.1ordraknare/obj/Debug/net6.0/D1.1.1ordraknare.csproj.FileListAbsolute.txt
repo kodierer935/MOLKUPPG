@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\bin\Debug\net6.0\D1.1.1ordraknare.exe
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\bin\Debug\net6.0\D1.1.1ordraknare.deps.json
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\bin\Debug\net6.0\D1.1.1ordraknare.runtimeconfig.json
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\bin\Debug\net6.0\D1.1.1ordraknare.dll
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\bin\Debug\net6.0\D1.1.1ordraknare.pdb
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\obj\Debug\net6.0\D1.1.1ordraknare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\obj\Debug\net6.0\D1.1.1ordraknare.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\obj\Debug\net6.0\D1.1.1ordraknare.AssemblyInfo.cs
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\obj\Debug\net6.0\D1.1.1ordraknare.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\obj\Debug\net6.0\D1.1.1ordraknare.dll
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\obj\Debug\net6.0\refint\D1.1.1ordraknare.dll
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\obj\Debug\net6.0\D1.1.1ordraknare.pdb
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\obj\Debug\net6.0\D1.1.1ordraknare.genruntimeconfig.cache
+C:\Users\Erik\source\repos\D1.1.1ordraknare\D1.1.1ordraknare\obj\Debug\net6.0\ref\D1.1.1ordraknare.dll

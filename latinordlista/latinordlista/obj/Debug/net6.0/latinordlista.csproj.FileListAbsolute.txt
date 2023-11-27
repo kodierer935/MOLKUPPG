@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\latinordlista\latinordlista\obj\Debug\net6.0\latinordlista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\latinordlista\latinordlista\obj\Debug\net6.0\latinordlista.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\latinordlista\latinordlista\obj\Debug\net6.0\latinordlista.AssemblyInfo.cs
+C:\Users\Erik\source\repos\latinordlista\latinordlista\obj\Debug\net6.0\latinordlista.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\latinordlista\latinordlista\bin\Debug\net6.0\latinordlista.exe
+C:\Users\Erik\source\repos\latinordlista\latinordlista\bin\Debug\net6.0\latinordlista.deps.json
+C:\Users\Erik\source\repos\latinordlista\latinordlista\bin\Debug\net6.0\latinordlista.runtimeconfig.json
+C:\Users\Erik\source\repos\latinordlista\latinordlista\bin\Debug\net6.0\latinordlista.dll
+C:\Users\Erik\source\repos\latinordlista\latinordlista\bin\Debug\net6.0\latinordlista.pdb
+C:\Users\Erik\source\repos\latinordlista\latinordlista\obj\Debug\net6.0\latinordlista.dll
+C:\Users\Erik\source\repos\latinordlista\latinordlista\obj\Debug\net6.0\refint\latinordlista.dll
+C:\Users\Erik\source\repos\latinordlista\latinordlista\obj\Debug\net6.0\latinordlista.pdb
+C:\Users\Erik\source\repos\latinordlista\latinordlista\obj\Debug\net6.0\latinordlista.genruntimeconfig.cache
+C:\Users\Erik\source\repos\latinordlista\latinordlista\obj\Debug\net6.0\ref\latinordlista.dll

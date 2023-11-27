@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\mataintal\mataintal\bin\Debug\net6.0\mataintal.exe
+C:\Users\Erik\source\repos\mataintal\mataintal\bin\Debug\net6.0\mataintal.deps.json
+C:\Users\Erik\source\repos\mataintal\mataintal\bin\Debug\net6.0\mataintal.runtimeconfig.json
+C:\Users\Erik\source\repos\mataintal\mataintal\bin\Debug\net6.0\mataintal.dll
+C:\Users\Erik\source\repos\mataintal\mataintal\bin\Debug\net6.0\mataintal.pdb
+C:\Users\Erik\source\repos\mataintal\mataintal\obj\Debug\net6.0\mataintal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\mataintal\mataintal\obj\Debug\net6.0\mataintal.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\mataintal\mataintal\obj\Debug\net6.0\mataintal.AssemblyInfo.cs
+C:\Users\Erik\source\repos\mataintal\mataintal\obj\Debug\net6.0\mataintal.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\mataintal\mataintal\obj\Debug\net6.0\mataintal.dll
+C:\Users\Erik\source\repos\mataintal\mataintal\obj\Debug\net6.0\refint\mataintal.dll
+C:\Users\Erik\source\repos\mataintal\mataintal\obj\Debug\net6.0\mataintal.pdb
+C:\Users\Erik\source\repos\mataintal\mataintal\obj\Debug\net6.0\mataintal.genruntimeconfig.cache
+C:\Users\Erik\source\repos\mataintal\mataintal\obj\Debug\net6.0\ref\mataintal.dll

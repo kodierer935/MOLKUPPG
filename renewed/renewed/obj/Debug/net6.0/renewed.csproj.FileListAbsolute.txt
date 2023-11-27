@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\renewed\renewed\bin\Debug\net6.0\renewed.exe
+C:\Users\Erik\source\repos\renewed\renewed\bin\Debug\net6.0\renewed.deps.json
+C:\Users\Erik\source\repos\renewed\renewed\bin\Debug\net6.0\renewed.runtimeconfig.json
+C:\Users\Erik\source\repos\renewed\renewed\bin\Debug\net6.0\renewed.dll
+C:\Users\Erik\source\repos\renewed\renewed\bin\Debug\net6.0\renewed.pdb
+C:\Users\Erik\source\repos\renewed\renewed\obj\Debug\net6.0\renewed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\renewed\renewed\obj\Debug\net6.0\renewed.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\renewed\renewed\obj\Debug\net6.0\renewed.AssemblyInfo.cs
+C:\Users\Erik\source\repos\renewed\renewed\obj\Debug\net6.0\renewed.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\renewed\renewed\obj\Debug\net6.0\renewed.dll
+C:\Users\Erik\source\repos\renewed\renewed\obj\Debug\net6.0\refint\renewed.dll
+C:\Users\Erik\source\repos\renewed\renewed\obj\Debug\net6.0\renewed.pdb
+C:\Users\Erik\source\repos\renewed\renewed\obj\Debug\net6.0\renewed.genruntimeconfig.cache
+C:\Users\Erik\source\repos\renewed\renewed\obj\Debug\net6.0\ref\renewed.dll

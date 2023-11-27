@@ -1,0 +1,14 @@
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\obj\Debug\net6.0\Whiletabell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\obj\Debug\net6.0\Whiletabell.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\obj\Debug\net6.0\Whiletabell.AssemblyInfo.cs
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\obj\Debug\net6.0\Whiletabell.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\bin\Debug\net6.0\Whiletabell.exe
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\bin\Debug\net6.0\Whiletabell.deps.json
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\bin\Debug\net6.0\Whiletabell.runtimeconfig.json
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\bin\Debug\net6.0\Whiletabell.dll
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\bin\Debug\net6.0\Whiletabell.pdb
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\obj\Debug\net6.0\Whiletabell.dll
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\obj\Debug\net6.0\refint\Whiletabell.dll
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\obj\Debug\net6.0\Whiletabell.pdb
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\obj\Debug\net6.0\Whiletabell.genruntimeconfig.cache
+C:\Users\Erik\source\repos\Whiletabell\Whiletabell\obj\Debug\net6.0\ref\Whiletabell.dll
