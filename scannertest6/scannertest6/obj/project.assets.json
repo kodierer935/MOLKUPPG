@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "TWS/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net461/CSharpAPI.dll": {},
+          "lib/net461/Connection.dll": {},
+          "lib/net461/Factory.dll": {},
+          "lib/net461/MarketData.dll": {},
+          "lib/net461/TWSConnection.dll": {}
+        },
+        "runtime": {
+          "lib/net461/CSharpAPI.dll": {},
+          "lib/net461/Connection.dll": {},
+          "lib/net461/Factory.dll": {},
+          "lib/net461/MarketData.dll": {},
+          "lib/net461/TWSConnection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TWS/1.0.0": {
+      "sha512": "fuZDUrMONfhaOLo2Jk6BtRbAsROpDF9k8FaKoIobKOig7h0TOMoLaT9viwMyGMi41iRmmtU3vErYRJaQAjUJmA==",
+      "type": "package",
+      "path": "tws/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/CSharpAPI.dll",
+        "lib/net461/Connection.dll",
+        "lib/net461/Factory.dll",
+        "lib/net461/MarketData.dll",
+        "lib/net461/TWSConnection.dll",
+        "tws.1.0.0.nupkg.sha512",
+        "tws.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "TWS >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Erik\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Erik\\source\\repos\\scannertest6\\scannertest6\\scannertest6.csproj",
+      "projectName": "scannertest6",
+      "projectPath": "C:\\Users\\Erik\\source\\repos\\scannertest6\\scannertest6\\scannertest6.csproj",
+      "packagesPath": "C:\\Users\\Erik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Erik\\source\\repos\\scannertest6\\scannertest6\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Erik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "TWS": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'TWS 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "TWS",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

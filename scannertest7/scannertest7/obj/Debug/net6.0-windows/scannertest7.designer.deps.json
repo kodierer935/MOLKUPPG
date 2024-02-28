@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InteractiveBrokers.TwsClient/1.0.755": {
+        "runtime": {
+          "lib/netstandard2.0/InteractiveBrokers.TwsClient.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InteractiveBrokers.TwsClient/1.0.755": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3xlnMBhyDN18CMr8QTHPLKJqRw0ugMa2OdHksonbwifkDwr4oIRhDgyHWMiGHHO1R1DVa9lGkhWlCbzOuJTLew==",
+      "path": "interactivebrokers.twsclient/1.0.755",
+      "hashPath": "interactivebrokers.twsclient.1.0.755.nupkg.sha512"
+    }
+  }
+}

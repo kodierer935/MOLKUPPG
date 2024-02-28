@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ixqo6UuIKxRptCev83oXn/rRFpkUD94XuFFUXFeQEqc/I0mGvHo779EEm4IeBqzLWFF+Tn/tGDuj0FRz8yQabA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erik\\source\\repos\\ScannerTest4\\ScannerTest4\\ScannerTest4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erik\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

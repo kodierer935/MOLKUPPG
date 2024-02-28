@@ -1,0 +1,16 @@
+C:\Users\Erik\source\repos\scannertest7\scannertest7\bin\Debug\net6.0-windows\scannertest7.exe
+C:\Users\Erik\source\repos\scannertest7\scannertest7\bin\Debug\net6.0-windows\scannertest7.deps.json
+C:\Users\Erik\source\repos\scannertest7\scannertest7\bin\Debug\net6.0-windows\scannertest7.runtimeconfig.json
+C:\Users\Erik\source\repos\scannertest7\scannertest7\bin\Debug\net6.0-windows\scannertest7.dll
+C:\Users\Erik\source\repos\scannertest7\scannertest7\bin\Debug\net6.0-windows\scannertest7.pdb
+C:\Users\Erik\source\repos\scannertest7\scannertest7\obj\Debug\net6.0-windows\scannertest7.Form1.resources
+C:\Users\Erik\source\repos\scannertest7\scannertest7\obj\Debug\net6.0-windows\scannertest7.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\scannertest7\scannertest7\obj\Debug\net6.0-windows\scannertest7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\scannertest7\scannertest7\obj\Debug\net6.0-windows\scannertest7.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\scannertest7\scannertest7\obj\Debug\net6.0-windows\scannertest7.AssemblyInfo.cs
+C:\Users\Erik\source\repos\scannertest7\scannertest7\obj\Debug\net6.0-windows\scannertest7.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\scannertest7\scannertest7\obj\Debug\net6.0-windows\scannertest7.dll
+C:\Users\Erik\source\repos\scannertest7\scannertest7\obj\Debug\net6.0-windows\refint\scannertest7.dll
+C:\Users\Erik\source\repos\scannertest7\scannertest7\obj\Debug\net6.0-windows\scannertest7.pdb
+C:\Users\Erik\source\repos\scannertest7\scannertest7\obj\Debug\net6.0-windows\scannertest7.genruntimeconfig.cache
+C:\Users\Erik\source\repos\scannertest7\scannertest7\obj\Debug\net6.0-windows\ref\scannertest7.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AmQQffk37x/PfU2/ifjZmXzjD7KOljUHxNiKKdsLp4fET83Td0ytTePtXNPCiEmbfDyHVs1KKPkrGAUHKVQwFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erik\\source\\repos\\scannertest7\\scannertest7\\scannertest7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erik\\.nuget\\packages\\interactivebrokers.twsclient\\1.0.755\\interactivebrokers.twsclient.1.0.755.nupkg.sha512"
+  ],
+  "logs": []
+}

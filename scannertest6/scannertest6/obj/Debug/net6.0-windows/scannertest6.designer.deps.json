@@ -1,0 +1,44 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TWS/1.0.0": {
+        "runtime": {
+          "lib/net461/CSharpAPI.dll": {
+            "assemblyVersion": "9.73.6.0",
+            "fileVersion": "9.73.6.0"
+          },
+          "lib/net461/Connection.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net461/Factory.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net461/MarketData.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net461/TWSConnection.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TWS/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fuZDUrMONfhaOLo2Jk6BtRbAsROpDF9k8FaKoIobKOig7h0TOMoLaT9viwMyGMi41iRmmtU3vErYRJaQAjUJmA==",
+      "path": "tws/1.0.0",
+      "hashPath": "tws.1.0.0.nupkg.sha512"
+    }
+  }
+}

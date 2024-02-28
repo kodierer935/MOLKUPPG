@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjWJqW6g41Wq1bnbm/0tbx1nscxHleqEtueYnAzPVCImGHjvWPZyVa0DgatnBb2A920C8XZRo9cS72TmPKbSog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erik\\source\\repos\\scannertest6\\scannertest6\\scannertest6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erik\\.nuget\\packages\\tws\\1.0.0\\tws.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'TWS 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "TWS",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

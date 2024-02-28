@@ -1,0 +1,7 @@
+C:\Users\Erik\source\repos\scannertest6\scannertest6\obj\Debug\net6.0-windows\scannertest6.csproj.AssemblyReference.cache
+C:\Users\Erik\source\repos\scannertest6\scannertest6\obj\Debug\net6.0-windows\scannertest6.Form1.resources
+C:\Users\Erik\source\repos\scannertest6\scannertest6\obj\Debug\net6.0-windows\scannertest6.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\scannertest6\scannertest6\obj\Debug\net6.0-windows\scannertest6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\scannertest6\scannertest6\obj\Debug\net6.0-windows\scannertest6.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\scannertest6\scannertest6\obj\Debug\net6.0-windows\scannertest6.AssemblyInfo.cs
+C:\Users\Erik\source\repos\scannertest6\scannertest6\obj\Debug\net6.0-windows\scannertest6.csproj.CoreCompileInputs.cache

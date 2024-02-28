@@ -1,0 +1,7 @@
+C:\Users\Erik\source\repos\IB_Scanner\IB_Scanner\obj\Debug\net6.0-windows\IB_Scanner.csproj.AssemblyReference.cache
+C:\Users\Erik\source\repos\IB_Scanner\IB_Scanner\obj\Debug\net6.0-windows\IB_Scanner.Form1.resources
+C:\Users\Erik\source\repos\IB_Scanner\IB_Scanner\obj\Debug\net6.0-windows\IB_Scanner.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\IB_Scanner\IB_Scanner\obj\Debug\net6.0-windows\IB_Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\IB_Scanner\IB_Scanner\obj\Debug\net6.0-windows\IB_Scanner.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\IB_Scanner\IB_Scanner\obj\Debug\net6.0-windows\IB_Scanner.AssemblyInfo.cs
+C:\Users\Erik\source\repos\IB_Scanner\IB_Scanner\obj\Debug\net6.0-windows\IB_Scanner.csproj.CoreCompileInputs.cache
